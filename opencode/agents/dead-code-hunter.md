@@ -45,7 +45,7 @@ permission:
     "git clean*": deny
     "rm *": ask
     "rm -rf *": deny
-	"rtk *" : allow
+    "rtk *" : allow
 ---
 
 # Dead Code Hunter
